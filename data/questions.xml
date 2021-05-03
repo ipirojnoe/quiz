@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question seconds="6" points="3">
+    <text>Фамилия первого человека в открытом космосе</text>
+    <variants>
+      <variant right="true">Леонов</variant>
+      <variant>Гагарин</variant>
+      <variant>Гречко</variant>
+      <variant>Армстронг</variant>
+    </variants>
+  </question>
+
+  <question seconds="5" points="1">
+    <text>Сколько бит в байте</text>
+    <variants>
+      <variant right="true">8</variant>
+      <variant>4</variant>
+      <variant>7</variant>
+      <variant>1</variant>
+    </variants>
+  </question>
+
+  <question seconds="7" points="2">
+    <text>Сколько часов с сутках</text>
+    <variants>
+      <variant right="true">24</variant>
+      <variant>25</variant>
+      <variant>23</variant>
+      <variant>12</variant>
+    </variants>
+  </question>
+
+  <question seconds="9" points="2">
+    <text>В какой стране используется своя система знаков ПДД</text>
+    <variants>
+      <variant>Россия</variant>
+      <variant right="true">Китай</variant>
+      <variant>США</variant>
+      <variant>Бразилия</variant>
+    </variants>
+  </question>
+
+  <question seconds="10" points="5">
+    <text>Как в старину на Руси называлась бухта или морской залив</text>
+    <variants>
+      <variant>Омут</variant>
+      <variant>Заводье</variant>
+      <variant right="true">Лукоморье</variant>
+      <variant>Коса</variant>
+    </variants>
+  </question>
+
+  <question seconds="7" points="3">
+    <text>В это озеро в России впадает 336 рек, а вытекает только одна. Что это за озеро</text>
+    <variants>
+      <variant right="true">Байкал</variant>
+      <variant>Ладожское</variant>
+      <variant>Онежское</variant>
+      <variant>Ильмень</variant>
+    </variants>
+  </question>
+
+  <question seconds="15" points="4">
+    <text>Какое футбольное амплуа было у сэра Артур Конан Дойла</text>
+    <variants>
+      <variant right="true">вратарь</variant>
+      <variant>защитник</variant>
+      <variant>нападающий</variant>
+      <variant>полузащитник</variant>
+    </variants>
+  </question>
+</questions>
